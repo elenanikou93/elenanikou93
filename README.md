@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Elena 👋
 
-<!--
-**elenanikou93/elenanikou93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Developer focused on backend development with Java and Python. I enjoy building structured systems, automation tools, and learning modern backend technologies.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages: Java, Python, C++
+- Core concepts: OOP, Data Structures, Algorithms
+- Databases: SQL, relational database design
+- Tools: Git, Maven, VS Code, Visual Studio
+- Web basics: HTML, CSS, JavaScript
+
+## Current Focus
+
+- Building backend projects and REST APIs
+- Learning Spring Boot and .NET
+- Developing automation tools and Discord bots
+
+## Projects
+
+You can find my projects pinned below, including:
+
+- Java algorithm and data structure implementations  
+- Python AI and automation projects  
+- Backend-focused tools and experiments  
+
+More projects coming soon.
+
+## Connect with me
+
+LinkedIn: https://linkedin.com/in/elena-nikou
