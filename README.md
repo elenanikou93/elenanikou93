@@ -1,6 +1,6 @@
 # Hi, I'm Elena 👋
 
-Junior Software Developer focused on backend development with Java and Python. I enjoy building structured systems, automation tools, and learning modern backend technologies.
+Junior Software Developer focused on backend development using Java and Python. I enjoy building structured systems, backend logic, and automation tools, and continuously improving my software engineering skills.
 
 ## Technical Skills
 
