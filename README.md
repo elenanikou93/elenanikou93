@@ -1,4 +1,4 @@
-Hi, I'm Elena 👋
+# Hi, I'm Elena 🫧
 
 I like building things to see how they work.
 
@@ -14,7 +14,7 @@ This repository space is basically where I experiment with:
 
 ◌ ideas that turn into small working projects
 
-Languages and tools I use
+# Languages and tools I use
 
 Java, Python, C++, SQL
 Git, Maven, VS Code, Visual Studio
