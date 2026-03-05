@@ -1,31 +1,26 @@
-# Hi, I'm Elena 👋
+Hi, I'm Elena 👋
 
-Junior Software Developer focused on backend development using Java and Python. I enjoy building structured systems, backend logic, and automation tools, and continuously improving my software engineering skills.
+I like building things to see how they work.
 
-## Technical Skills
+Most of the code here started as an idea I wanted to try out, an AI agent, a scheduling algorithm, a small game, or lately a Discord bot. I enjoy taking a concept and pushing it until it becomes a working system.
 
-- Languages: Java, Python, C++
-- Core concepts: OOP, Data Structures, Algorithms
-- Databases: SQL, relational database design
-- Tools: Git, Maven, VS Code, Visual Studio
-- Web basics: HTML, CSS, JavaScript
+This repository space is basically where I experiment with:
 
-## Current Focus
+◌ algorithms and data structures
 
-- Building backend projects and REST APIs
-- Learning Spring Boot and .NET
-- Developing automation tools and Discord bots
+◌ backend logic and small system design
 
-## Projects
+◌ automation tools and bots
 
-You can find my projects pinned below, including:
+◌ ideas that turn into small working projects
 
-- Java algorithm and data structure implementations  
-- Python AI and automation projects  
-- Backend-focused tools and experiments  
+Languages and tools I use
 
-More projects coming soon.
+Java, Python, C++, SQL
+Git, Maven, VS Code, Visual Studio
 
-## Connect with me
+Right now I'm working on a Python Discord bot and a few backend-oriented experiments.
 
-LinkedIn: https://linkedin.com/in/elena-nikou
+More things will probably appear here over time.
+
+🔗 LinkedIn: https://linkedin.com/in/elena-nikou
