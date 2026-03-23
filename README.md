@@ -1,4 +1,4 @@
-# Hi, I'm Elena 🫧
+# Hi, I'm Elena!
 
 I like building things to see how they work.
 
