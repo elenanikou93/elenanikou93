@@ -22,5 +22,5 @@ Git, Maven, VS Code, Visual Studio
 Right now I'm working on a Python Discord bot and a few backend-oriented experiments.
 
 More things will probably appear here over time.
-
+ 
 🔗 LinkedIn: https://linkedin.com/in/elena-nikou
