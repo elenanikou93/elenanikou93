@@ -1,26 +1,23 @@
-# Hi, I'm Elena!
+# Hi, I’m Elena.
 
-I like building things to see how they work.
+I like building things to understand how they work.
 
-Most of the code here started as an idea I wanted to try out, an AI agent, a scheduling algorithm, a small game, or lately a Discord bot. I enjoy taking a concept and pushing it until it becomes a working system.
+Most of the code here started as something I wanted to try out — an AI agent, a scheduling algorithm, a small game, a Discord bot, or more recently, a small REST API. I enjoy taking an idea and pushing it until it becomes a working system.
 
-This repository space is basically where I experiment with:
+This space is where I experiment with:
 
-◌ algorithms and data structures
+* algorithms and data structures
+* backend logic and small system design
+* automation tools and bots
+* ideas that turn into small working projects
 
-◌ backend logic and small system design
-
-◌ automation tools and bots
-
-◌ ideas that turn into small working projects
-
-# Languages and tools I use
-
+# Technologies I use:
 Java, Python, C++, SQL
-Git, Maven, VS Code, Visual Studio
+Git, Maven, VS Code, Visual Studio, IntelliJ IDEA
 
-Right now I'm working on a Python Discord bot and a few backend-oriented experiments.
+Right now I’m working on backend-focused projects, automation ideas, and small systems that help me learn by building.
 
-More things will probably appear here over time.
+More things will probably show up here over time.
+
  
 🔗 LinkedIn: https://linkedin.com/in/elena-nikou
