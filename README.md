@@ -2,7 +2,7 @@
 
 I like building things to understand how they work.
 
-Most of the code here started as something I wanted to try out — an AI agent, a scheduling algorithm, a small game, a Discord bot, or more recently, a small REST API. I enjoy taking an idea and pushing it until it becomes a working system.
+Most of the code here started as something I wanted to try out - an AI agent, a scheduling algorithm, a small game, a Discord bot, or more recently, a small REST API. I enjoy taking an idea and pushing it until it becomes a working system.
 
 This space is where I experiment with:
 
